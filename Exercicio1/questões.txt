@@ -1,0 +1,27 @@
+1. Faça um algoritmo que receba um número digitado pelo usuário e escreva: "Numero
+digitado: x". Nesse caso, x é o número digitado pelo usuário.
+
+2. Faça um algoritmo que receba dois números digitados pelo usuário e imprima a multipli-
+cação entre eles.
+
+3. Faça um programa que receba uma medida em metros e que imprima o equivalente em
+centímentros.
+
+4. Faça um algoritmo que receba o raio de um círculo, calcule e imprima a área do círculo
+(A = πr2
+)
+
+5. Faça um algoritmo que peça a quantidade de horas trabalhas no mês e a quantidade de
+dinheiro recebido por hora. O programa deve imprimir o total recebido no mês.
+
+6. Faça um algoritmo que receba a quantidade de votos nulos, brancos e válidos de uma
+eleição. O programa deve imprimir o percentual de cada tipo de voto em relação ao
+
+7. Faça um programa que pergunte a quantidade de quilômetros percorridos por um carro
+alugado e a quantidade de dias do aluguel. Calcule o preço do aluguel, levando em
+consideração que o aluguel do carro custa R$ 60,00 por dia e R$ 0,15 por quilometro
+rodado.
+
+8. Faça um programa que pergunte quanto você ganha por mês. Calcule e imprima: i)
+Salário bruto; ii) Quanto pagou de imposto (8%); iii) Quanto pagou ao sindicato (5%);
+iv) Salário líquido.
